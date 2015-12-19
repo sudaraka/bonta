@@ -11,7 +11,15 @@
     "bonta": "bin/main"
   },
   "scripts": {
+    "pretest": "eslint .",
     "test": "exit 0;"
+  },
+  "eslintConfig": {
+    "extends": "@sudaraka/default",
+    "env": {
+      "node": true,
+      "es6": true
+    }
   },
   "repository": {
     "type": "git",
@@ -26,5 +34,9 @@
   "bugs": {
     "url": "https://github.com/sudaraka/bonta/issues"
   },
-  "homepage": "https://github.com/sudaraka/bonta#readme"
+  "homepage": "https://github.com/sudaraka/bonta#readme",
+  "devDependencies": {
+    "@sudaraka/eslint-config-default": "^0.2.1",
+    "eslint": "1.10.3"
+  }
 }

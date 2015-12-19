@@ -13,5 +13,6 @@ details.
 
 ## [Unreleased]
 ### Added
+- `eslint` support
 - Npm based CLI utility skeleton
 - README, LICENSE and CHANGELOG
