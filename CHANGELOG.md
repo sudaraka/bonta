@@ -13,4 +13,5 @@ details.
 
 ## [Unreleased]
 ### Added
+- Npm based CLI utility skeleton
 - README, LICENSE and CHANGELOG

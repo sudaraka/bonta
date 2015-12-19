@@ -1,0 +1,30 @@
+{
+  "name": "@sudaraka/bonta",
+  "version": "0.0.0",
+  "description": "Freedesktop notifications that reminds me to take a zip of water at a preconfigured interval.",
+  "main": "lib/app.js",
+  "preferGlobal": true,
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "bonta": "bin/main"
+  },
+  "scripts": {
+    "test": "exit 0;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudaraka/bonta.git"
+  },
+  "keywords": [
+    "desktop-notification",
+    "reminder"
+  ],
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka.org> (http://sudaraka.org/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/sudaraka/bonta/issues"
+  },
+  "homepage": "https://github.com/sudaraka/bonta#readme"
+}
