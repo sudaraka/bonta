@@ -13,6 +13,7 @@ details.
 
 ## [Unreleased]
 ### Added
+- Use Node.js cluster workers to invoke the notification
 - `eslint` support
 - Npm based CLI utility skeleton
 - README, LICENSE and CHANGELOG
