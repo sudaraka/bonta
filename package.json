@@ -38,5 +38,8 @@
   "devDependencies": {
     "@sudaraka/eslint-config-default": "^0.2.1",
     "eslint": "1.10.3"
+  },
+  "dependencies": {
+    "growl": "1.8.1"
   }
 }
