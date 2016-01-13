@@ -13,6 +13,7 @@ details.
 
 ## [Unreleased]
 ### Added
+- Notification icon (water bottle)
 - Send desktop notifications via [growl](https://www.npmjs.com/package/growl)
 - Use Node.js cluster workers to invoke the notification
 - `eslint` support
