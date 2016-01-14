@@ -11,7 +11,7 @@ details.
 
 ---
 
-## [Unreleased]
+## [1.0.0] - 2016-01-14
 ### Added
 - Notification icon (water bottle)
 - Send desktop notifications via [growl](https://www.npmjs.com/package/growl)
