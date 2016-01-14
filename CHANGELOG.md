@@ -11,6 +11,13 @@ details.
 
 ---
 
+## [1.0.1] - 2016-01-14
+### Changed
+- CHANGELOG.md: updated for the release 1.0
+
+### Deprecated
+- 1.0.0 release
+
 ## [1.0.0] - 2016-01-14
 ### Added
 - Notification icon (water bottle)
