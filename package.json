@@ -17,8 +17,7 @@
   "eslintConfig": {
     "extends": "@sudaraka/default",
     "env": {
-      "node": true,
-      "es6": true
+      "node": true
     }
   },
   "repository": {
