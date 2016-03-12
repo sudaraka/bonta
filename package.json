@@ -1,6 +1,6 @@
 {
   "name": "@sudaraka/bonta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Freedesktop notifications that reminds me to take a zip of water at a preconfigured interval.",
   "main": "lib/app.js",
   "preferGlobal": true,
