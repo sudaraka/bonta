@@ -35,8 +35,8 @@
   },
   "homepage": "https://github.com/sudaraka/bonta#readme",
   "devDependencies": {
-    "@sudaraka/eslint-config-default": "^0.4.1",
-    "eslint": "^2.2.0"
+    "@sudaraka/eslint-config-default": "^0.5.2",
+    "eslint": "^3.0.0"
   },
   "dependencies": {
     "growl": "^1.9.2"
